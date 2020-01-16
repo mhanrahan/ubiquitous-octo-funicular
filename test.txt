@@ -1,0 +1,2 @@
+Your Order Number is 10
+Please present your receipt at the counter when your number is called.
